@@ -4,7 +4,7 @@
 <p>
 C/C++ </br>
 C# </br>
-<p>(sometime) javascript </br>
+(sometime) javascript </br>
 </p>
 
 <!---
