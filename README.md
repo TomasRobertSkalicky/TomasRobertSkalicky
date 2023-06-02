@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @TomasRobertSkalicky
 
 <h1>Programing languages I use</h1>
-<p>C/C++</p>
-<p>C#</p>
-<p>(sometime) javascript</p>
+<p>
+C/C++ </br>
+C# </br>
+<p>(sometime) javascript </br>
+</p>
 
 <!---
 TomasRobertSkalicky/TomasRobertSkalicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
