@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @TomasRobertSkalicky
-
 <h1>Programing languages I use</h1>
 
 <p>
